@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "westinghouse-trouble-shooter",
+  "private_key_id": "a7ca8f2e16b03e78ffcddda7b7967890ef0fd621",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7Oxq/zJFiUKyb\nla0j2Gw+YtwRWI+valsINIeQM1Mf/9hl6N8s+8whuOyMkqo4cziO3CCbfLL8rs4r\nplRlXj2kZT2QApj4DyyAgqRBtBPzg1sOdyBKoXnjY4Os5hM+bGemC4UR8Xhwvps2\naRy3ynLFi4cHo5Oj11EC8T4pA3DCxUPiCQhMnJpIREmqUUj1BluKtsbQruzRuSdd\nhF8bexK8oLYq3VaWZnBP17DBM0yingl/IW3iw6Ty4G/lE6sUQQtVHisj3GQVoKdP\nU6ZNflTmQsKg1YB5NmbcFfTGB848EtPLIolg/MY6d+cziR/gJd0NMJNch9cxrgiq\nrhE7yIipAgMBAAECggEANe74LSDiDlab6jOLDQTWZYA30X1X4pl6AJqVJGpMey7J\naM3UoBImgt5Qscu74gf61lg9wlyA+L3oIPXIYOztR9JsEfRVmTtRv/EiHNUhXCfO\nDpQtRqJOSLzNXPxntbcnglLWMc2DusKFVn6f6aeVOSeQrZgmuu8W5IiWtdzKWihX\nfcwk1DANI5F+nhNZMt1/zyza+ZFofw8tphjtVgUfNW57+M3oUhzDDrmefp6N+Os2\nEQTaqcJRFzLyP7q6f60TCu+v9HAQJ5hlDQV0CDv95qM0XzajytDhFan45FE8/4O0\n29v1jCXEan9pYvGgx6TXPUBHexjgvPCnW7wEs8Cg+wKBgQDsVMHNJPw3v7t6nosH\nCIngMd/UTf2D+iwBzytaLZfz3tTZh0gFueRATm6Z2Eowit81QN6BvBhK9na4nnYS\nBl0q0SE2K9ONfLrxQ2NJrzSZ9TWGXKGoPe1pPOqAMETOTzr4nYAow4HEeb+UCJQV\nUDieWsIHW7PVRB60FUF6mtY+qwKBgQDK0Dle4cdMfv4r6BqxxF15PihGFZSxzCGR\nuT65/sU8tJA2Av01CP/EoK6JPbd2wEx3t6zvaSm8iTXHwZFsn/mvmmMDkl184Sc5\n6LqyHvElJRhXXHf8T0OYUzJkC07rHQHHpMPOF/XlqKqMkGw0/ux69wbf3oP2dVW4\nxrYLwn9F+wKBgAfWA5sGt+otTE0Thq6UBOZPIQnMEDTZDa59rQVPb7NhVxNjXer6\nr+vF7frh5gvX/vCoFvicQP3zUBps/qM4XMx3pK9EIr6VPSmUv20JByh3re+nkKCg\ndQfBQlE/yHhCvkTSDBbN7LaUBtsksaxHPalafwZ5buwKVy5HaiVjjukDAoGALWE5\n9Qj/1xXzOU/N6UjOwXou+L+Lbd0HBdw1NNjUuSiNvAgfL+a7k/uAEiVFD8UnVwI6\nJ7eYJx9scS3WpD+HVstsrDfrwy194W85lvFlc7JBKAsArevua/7xn4EIP4NWCp3L\nUin6U1DSGHGYRKNltn3fg+f+Dv9iFt4fjbIPWFECgYAPEgC0fBkLauvSUSdJYjKz\nBz+npaHnWLALG7RT/Vf1iiJGyRGWJlLbEHrbeNLfjv6jmHPv2cASN3XzjxB95TGe\n50yugZ9RlUnH+YFo0bnPEMnMcQf0DKdXx5f+uxC02t7vZbAy3hncZP4yYnaJ3Q95\nFiEqydnu/u70H/je3Bxrmw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "replit-logging-bot@westinghouse-trouble-shooter.iam.gserviceaccount.com",
+  "client_id": "111403752995207834084",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/replit-logging-bot%40westinghouse-trouble-shooter.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
